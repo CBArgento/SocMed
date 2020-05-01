@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+body {
+	margin:0;
+	font-family:"Lato", sans-serif;
+}
+.para-slide {
+	width:100%;
+	position:relative;
+	text-align:center;
+	height:100vh;
+}
+.para-slide h1 {
+	margin:0;
+	padding-top:5%;
+	font-size:3.5em;
+	color:white;
+}
+.para-slide h2 {
+	margin:0;
+	padding-top:5%;
+	color:white;
+	font-size:2.75em;
+}
+.para-slide h3 {
+	color:white;
+	margin-top:0;
+}
+.para-slide p {
+	color:white;
+	font-size:1.5em;
+	margin:0;
+	padding-top:3%;
+	padding-bottom:3%;
+	max-width:65%;
+	margin:auto;
+}
