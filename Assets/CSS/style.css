@@ -48,3 +48,25 @@ body {
     margin-right: auto;
     width: 50%;
 }
+
+.jumbotron {
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    text-align: center;
+    height: 100%;
+}
+
+.companies {
+    padding: 80px;
+    background-color: tomato;
+    text-align: center;
+}
+.CompsImg {
+    width: 120px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
